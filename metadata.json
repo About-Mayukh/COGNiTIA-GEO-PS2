@@ -1,0 +1,6 @@
+{
+  "name": "GEOSPATIAL-PS2 Landslide Early Warning System",
+  "description": "Physics-based slope stability (FoS) and live rainfall hydrological pore-water pressure coupling for highway landslide early warning on mountain corridors like NH-58 with real-time SOS distress alerts and geo-fenced broadcasts.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
